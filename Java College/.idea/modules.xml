@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AWTSWING/AWTSWING.iml" filepath="$PROJECT_DIR$/AWTSWING/AWTSWING.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java College.iml" filepath="$PROJECT_DIR$/.idea/Java College.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KeyEvents/KeyEvents.iml" filepath="$PROJECT_DIR$/KeyEvents/KeyEvents.iml" />
+    </modules>
+  </component>
+</project>
